@@ -10,7 +10,7 @@ HOW TO RUN:
 
 --> The tweet will have information like:
 
-Analysis Output:
+ANALYSIS OUTPUT:
 
 --> Video Analysis: {First 2 emotions with highest percentage from the dictionary}  
 
